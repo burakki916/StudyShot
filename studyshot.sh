@@ -3,7 +3,7 @@
 # Define paths
 scrDir="$(dirname "$(realpath "$0")")"
 source "${scrDir}/globalcontrol.sh"
-studyShotFolder="/home/rakki/RakkiDrive/StudyShot" 
+studyShotFolder="" 
 subjectFile="$studyShotFolder/subjects.txt"  # Path to the subjects file
 imageDir="$studyShotFolder/images"  # Path to the subjects file
 tempScreenshot1directory="/tmp/tempScreenshot1.png"
