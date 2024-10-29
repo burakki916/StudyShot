@@ -5,4 +5,4 @@
 - its important how its saved because thats how the program knows how to index it
 
 - program uses open spaced repetition, see more about them 
-    [https://github.com/open-spaced-repetition](here)
+    [here](https://github.com/open-spaced-repetition)
