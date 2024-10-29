@@ -1,0 +1,11 @@
+# Ignore all images in the specified directory
+./images/*.{png,jpg,jpeg,gif,bmp,svg,webp}
+./indexedImages/*.{png,jpg,jpeg,gif,bmp,svg,webp}
+
+# Python
+__pycache__/
+
+
+# Visual Studio Code
+.vscode/
+.history/
